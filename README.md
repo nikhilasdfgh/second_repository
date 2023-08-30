@@ -1,2 +1,2 @@
-# second_repository
+I am editing the README file. Adding some more details about the project description.# second_repository
 experimentation
